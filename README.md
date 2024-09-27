@@ -1,4 +1,2 @@
 # TE AMO
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/jtamayo/pen/qBaqKRp](https://codepen.io/jtamayo/pen/qBaqKRp).
-
+las paginas: https://cafetermineg.github.io/cora/26dia_feli%20:)/dist/index.html
