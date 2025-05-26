@@ -1,4 +1,4 @@
-var name     ="TE AMO MI NIÑA",
+var name     ="TE QUIERO MI NIÑA PELDON POR ARRUINAR LA NOCHE DE PELI",
     nameArr  =name.split(''),
     arrayLength=nameArr.length,
     containerWidth=$('.words').width(),
